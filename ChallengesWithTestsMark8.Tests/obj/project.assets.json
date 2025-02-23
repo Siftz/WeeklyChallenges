@@ -6739,7 +6739,6 @@
       "packagesPath": "C:\\Users\\lakin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lakin\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\obj\\",
       "projectStyle": "PackageReference",
-      "UsingMicrosoftNETSdk": false,
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
